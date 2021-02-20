@@ -1,4 +1,4 @@
-# static-comp-challenge
+# Static-Comp-Challenge
 
 By: Cameron Mackintosh (https://github.com/cbmackintosh)
 
