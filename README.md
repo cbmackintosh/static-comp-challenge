@@ -6,7 +6,7 @@ The purpose of this project was to gain practice with using HTML and CSS to recr
 
 See below for a comparison between the comp sheet (above) and my recreation (below):
 
-![static-comp-challenge-2](https://user-images.githubusercontent.com/72054706/108608046-753f7300-7381-11eb-860b-80cc8d321228.jpg)
+![static-comp-challenge-2](https://user-images.githubusercontent.com/72054706/108608067-9d2ed680-7381-11eb-8311-3ba08ded75ff.jpg)
 
 ![Screen Shot 2021-02-20 at 1 28 47 PM](https://user-images.githubusercontent.com/72054706/108608004-1da10780-7381-11eb-9bea-ebd31d5a545d.png)
 
