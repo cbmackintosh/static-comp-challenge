@@ -10,13 +10,37 @@
     <title></title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="">
+    <link rel="stylesheet" href="./styles.css">
   </head>
   <body>
-    <!--[if lt IE 7]>
-      <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="#">upgrade your browser</a> to improve your experience.</p>
-    <![endif]-->
-    
-    <script src="" async defer></script>
+    <header>
+      <div class='user-dropdown'>
+        <label for='admin-dropdown'></label>
+        <select id='user-dropdown' name='user-dropdown'>
+          <option value='test'>Admin Username</option>
+        </select>
+      </div>
+      <div class='nav-bar'>
+        <img src='./assets/badge.webp' class='logo'>
+        <nav>
+          <button class='nav-button'><img src='./assets/share.png'>SHARES</button>
+          <button class='nav-button'><img src='./assets/list.svg'>PLAYLISTS</button>
+          <button class='nav-button'><img src='./assets/user.svg'>PERSONAL VIDEOS</button>
+        </nav>   
+      </div>
+    </header>
+    <main>
+      <h1>Shares</h1>
+      <section class="card-container">
+        <article class="card">1</article>
+        <article class="card">2</article>
+        <article class="card">3</article>
+        <article class="card">4</article>
+        <article class="card">5</article>
+        <article class="card">6</article>
+        <article class="card">7</article>
+        <article class="card">8</article>
+      </section>
+    </main>
   </body>
 </html>
